@@ -64,14 +64,14 @@ git push
 
 13. Create DynamodB
 
-13. Create Lambda Function using RequestUnicorn.js file in this repository and attach the IAM role created in step 12. 
+14. Create Lambda Function using RequestUnicorn.js file in this repository and attach the IAM role created in step 12. 
 
-14. Test the Lambda Function using the TestRequestUnicorn.js file 
+15. Test the Lambda Function using the TestRequestUnicorn.js file 
 
-15. Deploy REST-API using API Gateway
+16. Deploy REST-API using API Gateway
     - Setup an Authorizer
     - create resource at endpoint /ride with POST method integrated with Lambda
     - Enable CORS
     - connect method request with AUTH
 
-16. Use the App! 
+17. Use the App! 
