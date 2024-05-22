@@ -1,13 +1,12 @@
 # WildRyde
 A serverless app that mimics how ride share app works. This ride share app will be built and deployed using AWS Amplify which is an AWS developlment platform that allows users to build full-stack mobile/web applications. The repository will be hosted on AWS CodeCommit. The components for this app are Cognito, Lambda, DynamodB and REST API. 
 
-To access the website application: 
+To access the website application endpoint: 
 App Link: https://master.d22f4rkymvc7q3.amplifyapp.com/
 1. Click on GIDDY UP found at the web app link given above
 2. Register using username, email and password
 3. Sign in to GIDDY UP
-4. Alternatively, access the app endpoint directly at https://master.d22f4rkymvc7q3.amplifyapp.com/ride
-5. Set a pick-up location to request a ride. 
+4. Set a pick-up location to request a ride. 
 
 APPLICATION DEVELOPMENT 
 
